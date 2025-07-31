@@ -11,7 +11,7 @@ step 8 :- after step 7 we are redirected to a page where we select new project a
 step 9 :- after step 7 we are the create a project page where we give the details of the project like its name and add a storage space by cliking on the add button. When we click on add button we are redirected to the cloud object storage page where we need to select free plan and click on the create button .
 step 10 :- after clicking on the create button we are againg redirected back to the creat procject page where we can see the storge space we we are unable to see it we need to refresh it and click on the create button to create a project space.
 step 11 :- after step 10 we need to go to manage tab in the project space and associate service after clicking on it we need to select watsonx.ai Runtime and click on associte this will associte the services with the project.
-step 12 :- we need to move to overview and  Click on “Build machine learning models automatically” and 
+
 step 12 :- we need to move to overview and  Click on “Build machine learning models automatically” and Enter the experiment name and click on Create.
 step 13 :- Add the downloaded data set (predictive_maintenance.csv) with the help of 
 Browse option select the data set and click on Open.
